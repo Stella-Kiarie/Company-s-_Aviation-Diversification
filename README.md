@@ -19,7 +19,9 @@ Research shows that data-driven decision-making results in better and informed d
 ## Project Objectives 
 
 *To analyze Aircraft Makes with the Lowest Fatality Rates
+
 *To identify which Aircraft Engine types are more prone to damage in case of accidents 
+
 *Which Purpose Flights are less risky to fatal accidents 
 
 
@@ -32,11 +34,30 @@ The dataset contains 90348 rows of data and 31 columns of data
 Some significant columns for the  company’s risk assessment include: 
 
 Aircraft Make- different aircraft makes, i.e., Cessna, 
+
 Aircraft Model- different makes such as Cessna, PIPER, Beech, BOEING 
+
 Aircraft Damage- extent of damage  substantial, destroyed, and others not given 
-Purpose of Flight- various uses of flights ( personal, business, skydiving, executive,  firefighting), etc. 
+
+Purpose of Flight- various uses of flights ( personal, business, skydiving, executive,  
+firefighting), etc. 
+
 Total Fatal injuries- total number of fatal injuries in a specific accident event 
+
 Injury Severity  
+
+# Data Analysis and Visualizations 
+### Which Aircraft make has the lowest total fatal injuries?
+
+From the visual on the top 10 makes by total fatal injuries, it is evident that Cessna has the highest risk of fatal injuries, with models such as FOKKER having the lowest fatality 
+
+Recommendation 
+It is hence recommended that, as the Head of Aviation Division, Fokker aircraft make are advised as they have low total fatal injuries. 
+
+![Make by Fatal Injuries](image.png)
+
+
+
 
 
 
