@@ -74,4 +74,6 @@ Additionally, aircraft for private enterprise are highly discouraged, as aircraf
 
 This data-driven insight is a great starting point for aviation industry analysis. However, to justify the decision, further analysis is required to determine factors such as performance, reliability, operational aspects, and regulatory compliance. 
 
+## Interactive Dashboard
+![Interactive Dashboard](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/27c60f50d9b6b8f0dd5546073be0e412dc569353/Interactive%20Dashboard.png)
 
