@@ -54,11 +54,26 @@ From the visual on the top 10 makes by total fatal injuries, it is evident that 
 Recommendation 
 It is hence recommended that, as the Head of Aviation Division, Fokker aircraft make are advised as they have low total fatal injuries. 
 
-![Make by Fatal Injuries](C:\Users\Admin\Desktop\Moringa\Phase 1\Company-s-_Aviation-Diversification\images\image.png)
 
 
+### Which flight purposes are less exposed to fatal injuries? 
+From the data analysis, aircraft used for personal purposes are highly exposed to fatal injuries. Therefore, I do not recommend the company to venture into air travel used for personal purposes. 
 
+The company should consider venturing into the aviation industry for other purposes, such as Airdrop, Firefighting, Business, Skydiving, and for corporate purposes
 
+### Which engine types have the lowest damage risk? 
+Aircraft with Reciprocating engines have the highest risk of substantial damage in accidents. 
+Most engines have a moderate risk of damage, such as the Electric, Turbo Prop, and Turbo Shaft. 
 
+However, an aircraft such as a Turbo Fan has a minimal risk of exposure to damage. 
+
+### Conclusion and Recommendations 
+
+To conclude: 
+From the insights gathered from the aviation action dataset by NTSB, there are key factors that must be considered before venturing into the new industry. 
+Through the analysis, I identified FOKKER and DE HAVILLAND as the best aircraft makers with Turbo fan engines. 
+Additionally, aircraft for private enterprise are highly discouraged, as aircraft used for personal purposes have had the highest fatality injuries. 
+
+This data-driven insight is a great starting point for aviation industry analysis. However, to justify the decision, further analysis is required to determine factors such as performance, reliability, operational aspects, and regulatory compliance. 
 
 
