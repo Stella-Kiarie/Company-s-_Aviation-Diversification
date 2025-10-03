@@ -73,6 +73,11 @@ Through the analysis, I identified FOKKER and DE HAVILLAND as the best aircraft 
 Additionally, aircraft for private enterprise are highly discouraged, as aircraft used for personal purposes have had the highest fatality injuries. 
 
 This data-driven insight is a great starting point for aviation industry analysis. However, to justify the decision, further analysis is required to determine factors such as performance, reliability, operational aspects, and regulatory compliance. 
+# Next steps 
+
+Gather public and private operational data within the aviation industry to define other risk factors associated with aviation industry ventures. 
+Consider utilizing the most recent datasets. With revolution, data from 1962 is too outdated to refer to for decision-making. 
+Develop models to predict the performance of the aviation industry in the next few 
 
 ## Interactive Dashboard
 ![Interactive Dashboard](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/27c60f50d9b6b8f0dd5546073be0e412dc569353/Interactive%20Dashboard.png)
