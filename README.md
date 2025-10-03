@@ -50,15 +50,12 @@ Injury Severity
 ### Which Aircraft make has the lowest total fatal injuries?
 From the visual on the top 10 makes by total fatal injuries, it is evident that Cessna has the highest risk of fatal injuries, with models such as FOKKER having the lowest fatality 
 ![fatality_bymake](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/30ee8af3ccb24f72b8531b5ce7bd022c8d781f47/fatality%20by%20make.png)
-
 Recommendation 
-It is hence recommended that, as the Head of Aviation Division, Fokker aircraft make are advised as they have low total fatal injuries. 
-
-
+It is recommended that, as the Head of Aviation Division, Fokker aircraft make are advised because they have low total fatal injuries. 
 
 ### Which flight purposes are less exposed to fatal injuries? 
-From the data analysis, aircraft used for personal purposes are highly exposed to fatal injuries. Therefore, I do not recommend the company to venture into air travel used for personal purposes. 
-
+From the data analysis, aircraft used for personal purposes are highly exposed to fatal injuries. So, I don't think the company should venture into air travel used for personal reasons. 
+![flight purpose](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/6a6d770bc1bb7d4df9e5820b2067c6aa53d7385d/fatality%20by%20purpose.png)
 The company should consider venturing into the aviation industry for other purposes, such as Airdrop, Firefighting, Business, Skydiving, and for corporate purposes
 
 ### Which engine types have the lowest damage risk? 
