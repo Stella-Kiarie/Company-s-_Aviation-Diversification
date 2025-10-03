@@ -54,7 +54,7 @@ From the visual on the top 10 makes by total fatal injuries, it is evident that 
 Recommendation 
 It is hence recommended that, as the Head of Aviation Division, Fokker aircraft make are advised as they have low total fatal injuries. 
 
-![Make by Fatal Injuries](image.png)
+![Make by Fatal Injuries](C:\Users\Admin\Desktop\Moringa\Phase 1\Company-s-_Aviation-Diversification\images\image.png)
 
 
 
