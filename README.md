@@ -61,6 +61,7 @@ The company should consider venturing into the aviation industry for other purpo
 ### Which engine types have the lowest damage risk? 
 Aircraft with Reciprocating engines have the highest risk of substantial damage in accidents. 
 Most engines have a moderate risk of damage, such as the Electric, Turbo Prop, and Turbo Shaft. 
+![Engine type](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/c70149b8aac1d8051e736f1346cd36a51abac083/relationship%20between%20engine%20type%20and%20damage.png)
 
 However, an aircraft such as a Turbo Fan has a minimal risk of exposure to damage. 
 
