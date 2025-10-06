@@ -30,7 +30,7 @@ Data Source:  Aviation Data from 1962 to 2023 on civil aviation accidents across
 
 Data from the National Transportation Safety Board 
 
-The dataset contains 90348 rows of data and 31 columns of data 
+The dataset contains 90348 rows of data and 31 columns of data. After exploring the dataset, some rows containing missing values had to be dropped and some columns. Remaining with 27580 rows and 14 relevant columns for the data analysis 
 Some significant columns for the  company’s risk assessment include: 
 
 Aircraft Make- different aircraft makes, i.e., Cessna, 
