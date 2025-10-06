@@ -11,7 +11,7 @@ The results of this data analysis should assist the Head of Aviation Division in
 
 # Business Understanding 
 
-The company has prospered in the Electric vehicle industry over the past 10years. To combat the potential decline of the company, the stakeholders have sought to venture into the aviation industry. The aviation industry, however, is exposed to significant risks, one of which is accidents. For success within this industry, the company needs to understand the accident risks associated with different aircraft makes and models. 
+The company's stakeholders have sought to venture into the aviation industry. The aviation industry, however, is exposed to significant risks, one of which is the risk of accidents. For success within this industry, the company needs to understand the accident risks associated with different aircraft makes and models. 
 
 The NTSB provides a relevant dataset collected over a period of time that new companies can rely on for better decision-making as they venture into the aviation industry. 
 Research shows that data-driven decision-making results in better and informed decisions. 
