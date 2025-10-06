@@ -79,6 +79,6 @@ Gather public and private operational data within the aviation industry to defin
 Consider utilizing the most recent datasets. With revolution, data from 1962 is too outdated to refer to for decision-making. 
 Develop models to predict the performance of the aviation industry in the next few 
 
-## Interactive Dashboard
+## Interactive Dashboard(https://public.tableau.com/app/profile/stella.wanjiru/viz/PROJECT_17597320407240/Dashboard1?publish=yes)
 ![Interactive Dashboard](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/27c60f50d9b6b8f0dd5546073be0e412dc569353/Interactive%20Dashboard.png)
 
