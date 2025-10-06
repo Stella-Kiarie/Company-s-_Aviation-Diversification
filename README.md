@@ -1,11 +1,11 @@
 # AVIATION RISK ASSESSMENT 
 
-# A detailed analysis of aviation data by NTSB Aviation Accident Data (1962–2023) to determine Aircraft with the lowest risks 
+# A detailed analysis of aviation data by NTSB Aviation Accident Data (1962–2023) to determine the Aircraft with the lowest risks 
 
 
 
 # Overview 
-The company, has been looking forward to diversifying its  operations into the aviation industry. However, there is no information available on the potential risks associated with this new venture. 
+The company has been looking forward to diversifying its  operations into the aviation industry. However, there is no information available on the potential risks associated with this new venture. 
 Therefore, this project aims to analyze historical aviation accident data utilizing the NTSB data from 1962 to 2023 to identify aircraft models, makes, and engines that have the lowest risk profile based on injury fatalities. 
 The results of this data analysis should assist the Head of Aviation Division in determining which is the most appropriate venture within the aviation industry
 
@@ -30,7 +30,8 @@ Data Source:  Aviation Data from 1962 to 2023 on civil aviation accidents across
 
 Data from the National Transportation Safety Board 
 
-The dataset contains 90348 rows of data and 31 columns of data. After exploring the dataset, some rows containing missing values had to be dropped and some columns. Remaining with 27580 rows and 14 relevant columns for the data analysis 
+The dataset contains 90348 rows of data and 31 columns of data. After exploring the dataset, some rows containing missing values had to be dropped, and some columns. Remaining with 27580 rows and 14 relevant columns for the data analysis 
+
 Some significant columns for the  company’s risk assessment include: 
 
 Aircraft Make- different aircraft makes, i.e., Cessna, 
@@ -40,9 +41,9 @@ Aircraft Model- different makes such as Cessna, PIPER, Beech, BOEING
 Aircraft Damage- extent of damage  substantial, destroyed, and others not given 
 
 Purpose of Flight- various uses of flights ( personal, business, skydiving, executive,  
-firefighting), etc. 
+firefighting, etc. 
 
-Total Fatal injuries- total number of fatal injuries in a specific accident event 
+Total Fatal Injuries- total number of fatal injuries in a specific accident event 
 
 Injury Severity  
 
