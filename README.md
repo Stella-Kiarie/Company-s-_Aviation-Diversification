@@ -61,16 +61,20 @@ Recommendation
 It is recommended that, as the Head of Aviation Division, Fokker aircraft make are advised because they have low total fatal injuries. 
 
 ### Which flight purposes are less exposed to fatal injuries? 
-From the data analysis, aircraft used for personal purposes are highly exposed to fatal injuries. So, I don't think the company should venture into air travel used for personal reasons. 
+From the data analysis, aircraft used for personal purposes are highly exposed to fatal injuries. So, the company should not venture into air travel used for personal reasons. 
+
+
 ![flight purpose](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/6a6d770bc1bb7d4df9e5820b2067c6aa53d7385d/fatality%20by%20purpose.png)
 
 
 
-The company should consider venturing into the aviation industry for other purposes, such as Airdrop, Firefighting, Business, Skydiving, and for corporate purposes
+The company should consider venturing into the aviation industry for other purposes, such as Airdrop, Firefighting, Business, Skydiving, and corporate purposes
 
 ### Which engine types have the lowest damage risk? 
 Aircraft with Reciprocating engines have the highest risk of substantial damage in accidents. 
 Most engines have a moderate risk of damage, such as the Electric, Turbo Prop, and Turbo Shaft. 
+
+
 ![Engine type](https://github.com/Stella-Kiarie/Company-s-_Aviation-Diversification/blob/c70149b8aac1d8051e736f1346cd36a51abac083/relationship%20between%20engine%20type%20and%20damage.png)
 
 
